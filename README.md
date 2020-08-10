@@ -1,6 +1,6 @@
 # Jonatas Alves
 
-CTO @Rocketseat.
+##Front End Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonatas%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasalves/)](https://www.linkedin.com/in/jonatasalves/) 
 
