@@ -1,8 +1,8 @@
-# jonatas Alves
+# Jonatas Alves
 
 CTO @Rocketseat.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/jonatasalves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jonatas%20Alves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasalves/)](https://www.linkedin.com/in/jonatasalves/) 
 
 Enthusiast of the best web & mobile development technologies.
 
