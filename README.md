@@ -6,4 +6,4 @@ Eu sou Jonatas Alves, desenvolvedor Front-End Jr, sou apaixonado pelo mundo dos 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonatas%20Alves-1a1a1a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasalves/)](https://www.linkedin.com/in/jonatasalves/)
 
-(https://img.shields.io/badge/-Jonatas%20Alves-1a1a1a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasalves/)
+https://img.shields.io/endpoint?url=https://www.linkedin.com/in/jonatasalves/&style=flat-square
