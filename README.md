@@ -3,6 +3,7 @@
 
 ## Techs
 ![alt text](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=JavaScript)
+![alt text](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=TypeScript)
 ![alt text](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=React)
 ![alt text](https://img.shields.io/badge/-React%20Router-1a1a1a?style=for-the-badge&logo=React%20Router)
 ![alt text](https://img.shields.io/badge/-MUI-1a1a1a?style=for-the-badge&logo=MUI)
