@@ -21,7 +21,7 @@
 
 ## Projects
 
-- [Waiterapp] - Em breve
+- Waiterapp - Em breve
 - [MK Sistems](https://mks-sistems-steel.vercel.app/)
 - [Dashes](https://admin-dashboard-blush.vercel.app/)
 - [Youtube Clone](https://youtube-clone-six-ebon.vercel.app/)
