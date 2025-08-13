@@ -18,12 +18,3 @@
 ![alt text](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=MongoDB)
 ![alt text](https://img.shields.io/badge/-Figma-1a1a1a?style=for-the-badge&logo=Figma)
 ![alt text](https://img.shields.io/badge/-Adobe%20XD-1a1a1a?style=for-the-badge&logo=Adobe%20XD)
-
-## Projects
-
-- Waiterapp - Em breve
-- [MK Sistems](https://mks-sistems-steel.vercel.app/)
-- [Dashes](https://admin-dashboard-blush.vercel.app/)
-- [Youtube Clone](https://youtube-clone-six-ebon.vercel.app/)
-- [Sinedrol](https://sinedrol.netlify.app/)
-- [MDU - Método Descomplica Upgrade](https://mdu-hotmart.vercel.app/)
