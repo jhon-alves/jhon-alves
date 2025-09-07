@@ -1,7 +1,7 @@
 [![alt text](https://img.shields.io/badge/-Portfolio-1a1a1a?style=for-the-badge&logo=CodeIgniter&logoColor=white&link=https://www.jhondev.com.br/)](https://www.jhondev.com.br/)
 [![alt text](https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatasalves/)](https://www.linkedin.com/in/jonatasalves/)
 
-## Techs
+## Skills
 ![alt text](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=HTML5)
 ![alt text](https://img.shields.io/badge/-CSS3-1a1a1a?style=for-the-badge&logo=CSS3)
 ![alt text](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=JavaScript)
