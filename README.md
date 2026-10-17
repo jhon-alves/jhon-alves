@@ -17,4 +17,3 @@
 ![alt text](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=Node.js)
 ![alt text](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=MongoDB)
 ![alt text](https://img.shields.io/badge/-Figma-1a1a1a?style=for-the-badge&logo=Figma)
-![alt text](https://img.shields.io/badge/-Adobe%20XD-1a1a1a?style=for-the-badge&logo=Adobe%20XD)
